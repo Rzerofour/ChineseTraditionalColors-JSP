@@ -31,4 +31,4 @@
  - font-spider:https://github.com/aui/font-spider
   
 ## 💰欢迎打赏：
-![QR](img_/QR.png)
+![QR](src/main/webapp/img_/QR.png)
